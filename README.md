@@ -1,6 +1,8 @@
 <h1 align="center"> Hi, 👋 I'm Sheikh Md Ziauddin</h1>
+
  <h3 align="center"> A passionate Full Stack Web Developer from Bangladesh </h3>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZiauddinJim&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<p align="center"> <img src="https://i.ibb.co.com/p6Pj1dTn/project-banner.png" /></p>
 
 ## 🚀 About Me
 
