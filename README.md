@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center"> Hi, 👋 I'm Sheikh Md Ziauddin</h1>
+ <h3 align="center"> A passionate Full Stack Web Developer from Bangladesh </h3>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZiauddinJim&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
-<!--
-**ZiauddinJim/ZiauddinJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Expert MERN Stack Developer (MongoDB, Express, React, Node.js)
+
+🎨 Skilled in Adobe Photoshop, Illustrator, InDesign, Figma, Affinity Designer
+
+📊 Excel Expert — automation, dashboards, data processing
+
+🖥️ Comfortable working in Windows & Linux environments
+
+✍️ Productivity & project documentation using Notion and Obsidian
+
+📫 Email: ziauddinjim942@gmail.com
+
+# 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiauddinJim&show_icons=true&locale=en&layout=compact" alt="ZiauddinJim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZiauddinJim&show_icons=true&locale=en" alt="ZiauddinJim" /></p> 
+
+ 
+## 🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/sheikh-ziauddin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/ZiauddinJim"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="mailto:ziauddinjim942@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
+
+# 🧩 Tech Stack
+
+## 🖥️ Frontend & UI
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,figma" /> </p>
+
+## ⚙️ Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+
+## 🎨 Design & Creative Tools
+<p> <img src="https://skillicons.dev/icons?i=ps,ai,figma" /> </p>
+
+## 🛠️ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=windows,linux,vscode,postman,git,github" /> </p>
+ 
