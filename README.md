@@ -18,7 +18,7 @@
 
 ✍️ Productivity & project documentation using Notion and Obsidian
 
-📫 Email: ziauddinjim942@gmail.com
+📫 Email: sheikhmdziauddin@gmail.com
 
 # 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiauddinJim&show_icons=true&locale=en&layout=compact" alt="ZiauddinJim" /></p>
@@ -26,7 +26,7 @@
 
  
 ## 🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/sheikh-ziauddin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/ZiauddinJim"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="mailto:ziauddinjim942@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sheikh-ziauddin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/ZiauddinJim"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="mailto:sheikhmdziauddin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
 
 # 🧩 Tech Stack
 
