@@ -31,14 +31,14 @@
 # 🧩 Tech Stack
 
 ## 🖥️ Frontend & UI
-<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,figma" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,next,react,figma" /> </p>
 
 ## ⚙️ Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" /> </p>
 
 ## 🎨 Design & Creative Tools
-<p> <img src="https://skillicons.dev/icons?i=ps,ai,figma" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd,pixso" /> </p>
 
 ## 🛠️ Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=windows,linux,vscode,postman,git,github" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=windows,redhat,docker,vscode,postman,git,github" /> </p>
  
